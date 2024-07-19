@@ -1,0 +1,9 @@
+Package: minimal
+Type: Package
+Title: A Minimal R Package
+Version: 1.0
+Authors@R:
+    person("Jumping", "Rivers", , "info@jumpingrivers.com", role = c("aut", "cre"))
+Description: A very basic R package that does literally nothing. 
+	Created for testing purposes.
+License: GPL-2
