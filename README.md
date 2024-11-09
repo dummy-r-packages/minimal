@@ -8,3 +8,6 @@ The packages builds and passes the usual checks
 R CMD build minimal
 R CMD check --as-cran minimal*.tar.gz
 ```
+
+This package is used for testing the {litmus} package.
+
